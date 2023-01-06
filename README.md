@@ -1,7 +1,8 @@
 install:
-$ git clone https://github.com/xwrace/terraform.git
-$ mv terraform /usr/bin
+	
+	git clone https://github.com/xwrace/terraform.git
+	mv terraform /usr/bin
 
-check:
-$ terraform version
-Terraform v1.2.7
+check (show Terraform v1.2.7):
+
+	terraform version
